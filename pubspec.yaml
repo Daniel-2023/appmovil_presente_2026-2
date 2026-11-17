@@ -42,6 +42,12 @@ dependencies:
   http: ^1.6.0
   firebase_storage: ^12.4.10
   image_picker: ^1.2.4
+  file_picker: ^8.1.2
+  excel: ^4.0.6
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^7.5.0
+  path_provider: ^2.1.6
+  open_filex: ^5.0.0
 
 
 dev_dependencies:
